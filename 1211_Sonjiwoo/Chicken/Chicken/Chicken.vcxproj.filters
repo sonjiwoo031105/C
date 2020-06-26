@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="for_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="continue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="break.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="grade01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="grade02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="add함수01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="add함수02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="grade03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="전역변수, 지역번수02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="전역변수, 지역변수01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="printf_v.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="디버깅연습.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="grade05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배열의 선언.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배열의 초기화와 출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="grade배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 기본.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="전역변수 바꾸기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Call By Pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="풀어보기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arraypointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배열과 포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arraypointer01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arraypointer02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배열포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배열포인터임.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06 - 1.관계연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06 - 2.조건연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06 - 3.논리연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06 - 4.논리연산자2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06 - 5.정수표기법.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06 - 6.비트별 연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06 - 7.시프트 연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06 - 8.sizeof 연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06 - 9.type casting.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="매크로.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="매크로+flag.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2중포인터 예제1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2중포인터 연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이차원배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="void 포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="void포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적할당.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적 할당.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적할당(숙제).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 해보기1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 해보기2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 해보기3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 해보기4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 해보기5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 typedef.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 typedef2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="두점 사이의 거리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1번 문제코드.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2번 문제코드.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3번 문제코드.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4번 문제코드.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="성적처리05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="성적처리05_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Call By Value.c">
+      <Filter>소스 파일</Filter>
+    </None>
+  </ItemGroup>
+</Project>

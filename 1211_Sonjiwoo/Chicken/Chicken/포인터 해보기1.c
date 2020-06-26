@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+void main(void)
+{
+	char str[5][10] = {
+		"±Ëµø∑¸",
+		"±Ë≥≤±Ê",
+		"æ∆¿Ã¿Ø",
+		"∆‰¿Ãƒø",
+		"±Ë¿Â»∆"
+	};
+	for (int i = 0; i < 5; i++) 
+		printf("%s \n", str[i]);
+	
+}
